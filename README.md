@@ -27,3 +27,12 @@ Make sure you have the following include files in your compiler directory:
 
 ## 🖼️ Screenshot
 ![Flashlight System Demo](https://raw.githubusercontent.com/Adam-Kelvine/Samp-flashlight-system/main/sa-mp-034.png)
+
+## 💖 Support My Work
+If you found this script useful and want to support me:
+
+<p align="center">
+  <a href="https://paypal.me/kelvinesamp?country.x=MA&locale.x=fr_XC">
+    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal" alt="Donate with PayPal">
+  </a>
+</p>
