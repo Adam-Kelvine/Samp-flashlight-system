@@ -24,3 +24,6 @@ Make sure you have the following include files in your compiler directory:
 2. Place `flashlight.pwn` into your gamemode or filterscript folder (or include it in your main script).
 3. Ensure you have `zcmd.inc` included in your `pawno/include` directory.
 4. Compile the script using the Pawn compiler.
+
+## 🖼️ Screenshot
+![Flashlight System Demo](https://raw.githubusercontent.com/Adam-Kelvine/Samp-flashlight-system/main/sa-mp-034.png)
